@@ -1,0 +1,9 @@
+.block{
+    width: 150px;
+    height: 150px;
+    background: yellow;
+}
+.interval{
+    margin: 0 auto;
+    font-size: 30px;
+}
